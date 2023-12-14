@@ -1,4 +1,4 @@
-import DataOfPoints from "../data/DataOfPoints.js";
+import DataOfPoints from "./data/DataOfPoints.js";
 
 const PlaceOfPoints = document.getElementById('PlaceOfPoints');
 

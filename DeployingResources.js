@@ -1,4 +1,4 @@
-import DataOfResources from "../data/DataOfResources.js";
+import DataOfResources from "./data/DataOfResources.js";
 
 const PlaceOfResources = document.getElementById('PlaceOfResources');
 
